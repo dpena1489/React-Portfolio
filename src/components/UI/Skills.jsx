@@ -1,14 +1,15 @@
 export default function Skills(){
     const skills = [
-        'HTML',
-        'CSS',
-        'JavaScript',
         'SQL',
         'PostgreSQL',
         'MongoDB',
         'React',
         'Node.js',
-        'Express'
+        'Express',
+        'HTML',
+        'CSS',
+        'JavaScript',
+    
     ];
 
     const listItems = skills.map(skill => <li>{skill}</li>);

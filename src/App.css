@@ -1,8 +1,8 @@
-/* Main Styles */
+/* Main Page */
 
-#root {
+/* Remove the empty ruleset */
   
-}
+/* Remove the closing curly brace */
 
 .top-navbar {
   width: 100% ;
@@ -39,7 +39,7 @@ body{
 }
 
 
-/* Card Styles */
+/* Card */
 
 
 .card {
@@ -67,7 +67,7 @@ body{
 }
 
 
-/*Link, Button, and Navpill Styles */
+/*Link and NAV */
 
 .nav-pills .nav-link.active, .nav-pills .show>.nav-link, .btn-primary {
   background-color: #284b63;
@@ -87,7 +87,7 @@ a:hover {
 
 }
 
-/* Other page content */
+
 .profile-image img {
     justify-content: left;
     border-radius: 50%;
