@@ -71,8 +71,9 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ![Screenshot 2024-05-30 205338](https://github.com/dpena1489/React-Portfolio/assets/150938385/b5e0a103-c294-449d-90c3-51c7ab48c337)
 
 
-## Link to GitHub Repo 
+## Link to GitHub Repo and deployed site
 <a href="https://github.com/dpena1489/React-Portfolio">Click Here</a>
+<a href="https:daisypena-reactportfolio-7375ad.netlify.app">Click Here</a>
 ## Usage 
 
 To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume. 
