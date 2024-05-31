@@ -67,9 +67,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshot
-
-![mypic](https://github.com/dpena1489/React-Portfolio/assets/150938385/d5422888-075c-49bb-991b-97e64a5fe1c5)
-
+![about me](https://github.com/dpena1489/React-Portfolio/assets/150938385/019d016d-c514-4e7d-aaa3-e22e295354b0)
 
 ## Link 
 <a href="https://github.com/dpena1489/React-Portfolio">Click Here</a>
