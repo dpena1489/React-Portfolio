@@ -12,7 +12,7 @@ Being a web developer means being part of a community. We all need a place to sh
 * [Installation](#installation)
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
-* [Screenshots](#screenshots)
+* [Screenshots](#screenshot)
 * [Link](#link)
 * [Usage](#usage)
 
@@ -66,17 +66,11 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) 
 ```
 
-## Screenshots 
-
-<img width="1300" alt="Screen1" src="https://user-images.githubusercontent.com/49573760/183587569-abf121a5-d5c7-4d00-b76a-8665efd9409a.png">
-
-<img width="1294" alt="Screen2" src="https://user-images.githubusercontent.com/49573760/183587584-7235aa91-b1d7-41ed-add2-7aac2fe927da.png">
-
 
 
 
 ## Link 
-<a href="https://lemming97.github.io/React_Portfolio/">Click Here</a>
+<a href="https://github.com/dpena1489/React-Portfolio">Click Here</a>
 
 ## Usage 
 
