@@ -6,7 +6,7 @@
 
 .top-navbar {
   width: 100% ;
-  padding-right: 5px;
+  padding-right: 15px;
   margin-bottom: 50px;
   max-height: fit-content;
 }
@@ -33,9 +33,9 @@ main {
 
 body{
   padding-bottom: 70px;
-  background-color: #efefef;
+  background-color: #24136b;
   font-family: Georgia, 'Times New Roman', Times, serif;
-  color: #0C1F2A
+  color: #abcfe4
 }
 
 
@@ -59,7 +59,7 @@ body{
 }
 
 .card-footer {
-  background-color: #EBF5FC;
+  background-color: #0a3452;
 }
 
 .card-body {
