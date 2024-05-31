@@ -1,10 +1,10 @@
-# React_Portfolio
+# React Portfolio
 20. React Challenge: React Portfolio
 
 
 ## Description 
 
-Being a web developer means being part of a community. We all need a place to share our projects not only if we're applying for jobs or working as a freelancer but also so that we can share our work with fellow developers and collaborate on future projects. 
+As a web developer, active participation in a community is integral. It is imperative to have a dedicated space for project showcasing, not solely for professional endeavors like job applications or freelance engagements, but also to foster collaboration with peers, share insights, and collectively work on future projects.
 
 
 ## Table of Contents
