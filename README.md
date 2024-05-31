@@ -68,10 +68,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshot
 ![about me](https://github.com/dpena1489/React-Portfolio/assets/150938385/019d016d-c514-4e7d-aaa3-e22e295354b0)
+![Screenshot 2024-05-30 205338](https://github.com/dpena1489/React-Portfolio/assets/150938385/b5e0a103-c294-449d-90c3-51c7ab48c337)
 
-## Link 
+
+## Link to GitHub Repo 
 <a href="https://github.com/dpena1489/React-Portfolio">Click Here</a>
-
 ## Usage 
 
-To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume.
+To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume. 
