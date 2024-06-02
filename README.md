@@ -67,8 +67,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshot
-![about me](https://github.com/dpena1489/React-Portfolio/assets/150938385/019d016d-c514-4e7d-aaa3-e22e295354b0)
-![Screenshot 2024-05-30 205338](https://github.com/dpena1489/React-Portfolio/assets/150938385/b5e0a103-c294-449d-90c3-51c7ab48c337)
+![image](https://github.com/dpena1489/React-Portfolio/assets/150938385/07385246-4257-4940-a6b5-b57ddda2e366)
 
 
 ## Link to GitHub Repo and deployed site
