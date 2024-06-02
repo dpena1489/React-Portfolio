@@ -67,13 +67,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 ```
 
 ## Screenshot
-![image](https://github.com/dpena1489/React-Portfolio/assets/150938385/07385246-4257-4940-a6b5-b57ddda2e366)
+![image](https://github.com/dpena1489/React-Portfolio/assets/150938385/c09cfbee-1482-4111-a1f7-c1f6326bc1c5)
 
 
 ## Link to GitHub Repo and deployed site
 <a href="https://github.com/dpena1489/React-Portfolio">Click Here</a>
-
-[React Portfolio](https://cs-react-portfolio.netlify.app)
+https://daisypena-reactportfolio-7375ad.netlify.app/
 ## Usage 
 
 To create a portfolio, using React. The user can review and About Me section, a sample Portfolio, a contact form, and be able to download the Resume. 
